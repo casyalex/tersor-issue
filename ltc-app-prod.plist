@@ -11,7 +11,7 @@
                         <key>kind</key>
                         <string>software-package</string>
                         <key>url</key>
-                        <string>https://s3.us-west-2.amazonaws.com/static-resource.prod.b2b.deckers.com/quality_labtest_app/prod/1.0.0%2B1/quality_labtest_app.ipa</string>
+                        <string>https://s3.us-west-2.amazonaws.com/static-resource.b2b.deckers.com/quality_labtest_app/prod/1.0.0%2B1/quality_labtest_app.ipa</string>
                     </dict>
                 </array>
                 <key>metadata</key>
