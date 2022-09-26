@@ -17,7 +17,7 @@
                 <key>metadata</key>
                 <dict>
                     <key>bundle-identifier</key>
-                    <string>com.deckers.qualityLabtestApp</string>
+                    <string>com.deckers.gz.qualityLabtestApp</string>
                     <key>bundle-version</key>
                     <string>1.0.0</string>
                     <key>kind</key>
